@@ -1,0 +1,15 @@
+body{
+    align-items: center;
+    justify-content: center;
+}
+
+
+.container{
+   font-size: 5rem;
+   color: red;
+}
+
+
+.container h1{
+    color: red;
+}
